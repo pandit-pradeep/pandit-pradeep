@@ -52,7 +52,7 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: your-email@gmail.com  
+- 📧 Email: your-codepradeep07@gmail.com 
 - 💼 LinkedIn: your-linkedin-link  
 - 🌐 Portfolio: Coming Soon 🚀  
 
