@@ -37,8 +37,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Pradeep23e2454&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeep23e2454&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Pradeep23e2454&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeep23e2454&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800"/>
 </p>
 
 ---
@@ -51,6 +51,13 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pradeep23e2454/Pradeep23e2454/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
 
 ## 📫 Connect With Me
 
