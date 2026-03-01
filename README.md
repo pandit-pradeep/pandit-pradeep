@@ -53,7 +53,7 @@
 ## 📫 Connect With Me
 
 - 📧 Email:codepradeep07@gmail.com 
-- 💼 LinkedIn: your-linkedin-link  
+- 💼 LinkedIn: (https://www.linkedin.com/in/pradeep-pandit-1b6723325/) 
 - 🌐 Portfolio: Coming Soon 🚀  
 
 ---
