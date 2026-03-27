@@ -54,7 +54,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pradeep23e2454/Pradeep23e2454/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/pandit-pradeep/pandit-pradeep/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
