@@ -37,8 +37,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Pradeep23e2454&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeep23e2454&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pandit-pradeep&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandit-pradeep&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800"/>
 </p>
 
 ---
@@ -46,7 +46,7 @@
 ## 🔥 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pradeep23e2454&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pandit-pradeep&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
