@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Pradeep%20Pandit&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,25:dd2476,50:8f44fd,75:24c6dc,100:1fa2ff&height=250&section=header&text=Pradeep%20Pandit&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <h2>🚀 Computer Science Student | Frontend Developer</h2>
 
