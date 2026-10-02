@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Pradeep Pandit
+#  Hi 👋, I'm Pradeep Pandit
 
 📧 **Email:** [codepradeep07@gmail.com](mailto:codepradeep07@gmail.com) — For collaboration, projects, or anything else.
 
